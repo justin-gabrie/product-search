@@ -1,0 +1,1 @@
+export const postsPerPageOptions =['5 / Page', '10 / Page', '15 / Page']

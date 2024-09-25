@@ -1,0 +1,1 @@
+export const productTabs = ['All Products', 'Top Selling', 'Top Rated'];
