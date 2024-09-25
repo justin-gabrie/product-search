@@ -1,0 +1,81 @@
+.select-container {
+    position: relative;
+    width: 6rem;
+}
+
+.container-width {
+  width: 7rem;
+}
+
+.select-trigger {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 2rem;
+  padding-left: .4rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  color: #1f1f1f;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+
+.select-container .active {
+  border: 1px solid red;
+  border-radius: 4px;
+}
+
+.select-container .border-less {
+  height: auto;
+  border: none;
+  border-left: 1px solid #ccc;
+  font-size: small;
+}
+.select-trigger .arrow {
+  font-size: 18px;
+  color: #333;
+}
+
+.options {
+  position: absolute;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background-color: white;
+  z-index: 1;
+}
+
+.options-bottom {
+  top: 2rem;
+}
+
+.options-top {
+  bottom: 2.4rem;
+}
+
+.option {
+  padding: .3rem;
+  padding-left: .6rem;
+  font-size: 14px;
+  background-color: #fff;
+  color: #333;
+  cursor: pointer;
+}
+
+.option:hover {
+  background-color: #96003711;
+}
+
+.active-option {
+  background-color: #960037;
+  color: #fff;
+}
+
+.active-option:hover {
+  color: #000
+}
+
+.option-custom {
+  font-size: small;
+}

@@ -1,0 +1,23 @@
+.products-tab {
+  display: flex;
+  gap: 1rem ;
+  font-weight: 600;
+  margin: 0 2rem;
+  box-shadow: 0 3px 2px -2px #ccc;
+}
+
+.products-tab > p {
+  padding:  0.5rem 0.7rem;
+}
+
+.active-tab {
+  color: #960037 ;
+  cursor: pointer;
+  border-radius:8px 8px 0 0 ;
+  border-bottom: 2px solid #960037;
+}
+
+.in-active-tab {
+  color: #7a7a7a;
+  cursor: pointer;
+}
