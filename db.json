@@ -1,0 +1,274 @@
+{
+  "grocery": [
+    {
+      "id": 1,
+      "name": "Organic Apples",
+      "category": "Fruits",
+      "price": 3.99,
+      "status": "In Stock",
+      "rating": 4.5,
+      "topSelling": true
+    },
+    {
+      "id": 2,
+      "name": "Whole Wheat Bread",
+      "category": "Bakery",
+      "price": 2.49,
+      "status": "In Stock",
+      "rating": 4.3,
+      "topSelling": false
+    },
+    {
+      "id": 3,
+      "name": "Free-range Eggs",
+      "category": "Dairy",
+      "price": 4.29,
+      "status": "Out of Stock",
+      "rating": 4.8,
+      "topSelling": true
+    },
+    {
+      "id": 4,
+      "name": "Almond Milk",
+      "category": "Beverages",
+      "price": 5.99,
+      "status": "In Stock",
+      "rating": 4.2,
+      "topSelling": false
+    },
+    {
+      "id": 5,
+      "name": "Greek Yogurt",
+      "category": "Dairy",
+      "price": 3.49,
+      "status": "In Stock",
+      "rating": 4.7,
+      "topSelling": false
+    },
+    {
+      "id": 6,
+      "name": "Organic Spinach",
+      "category": "Vegetables",
+      "price": 2.99,
+      "status": "Out of Stock",
+      "rating": 4.9,
+      "topSelling": true
+    },
+    {
+      "id": 7,
+      "name": "Orange Juice",
+      "category": "Beverages",
+      "price": 4.99,
+      "status": "In Stock",
+      "rating": 4.3,
+      "topSelling": false
+    },
+    {
+      "id": 8,
+      "name": "Rice Milk",
+      "category": "Beverages",
+      "price": 3.49,
+      "status": "Out of Stock",
+      "rating": 4.0,
+      "topSelling": true
+    },
+    {
+      "id": 9,
+      "name": "Bananas",
+      "category": "Fruits",
+      "price": 1.49,
+      "status": "In Stock",
+      "rating": 4.6,
+      "topSelling": false
+    },
+    {
+      "id": 10,
+      "name": "Avocados",
+      "category": "Fruits",
+      "price": 1.99,
+      "status": "Out of Stock",
+      "rating": 4.4,
+      "topSelling": true
+    },
+    {
+      "id": 11,
+      "name": "Blueberries",
+      "category": "Fruits",
+      "price": 3.49,
+      "status": "In Stock",
+      "rating": 4.5,
+      "topSelling": true
+    },
+    {
+      "id": 12,
+      "name": "Sourdough Bread",
+      "category": "Bakery",
+      "price": 4.29,
+      "status": "Out of Stock",
+      "rating": 4.7,
+      "topSelling": true
+    },
+    {
+      "id": 13,
+      "name": "Broccoli",
+      "category": "Vegetables",
+      "price": 2.79,
+      "status": "In Stock",
+      "rating": 4.8,
+      "topSelling": true
+    },
+    {
+      "id": 14,
+      "name": "Carrots",
+      "category": "Vegetables",
+      "price": 1.99,
+      "status": "In Stock",
+      "rating": 4.3,
+      "topSelling": false
+    },
+    {
+      "id": 15,
+      "name": "Strawberries",
+      "category": "Fruits",
+      "price": 2.99,
+      "status": "Out of Stock",
+      "rating": 4.6,
+      "topSelling": true
+    },
+    {
+      "id": 16,
+      "name": "Cucumber",
+      "category": "Vegetables",
+      "price": 1.49,
+      "status": "In Stock",
+      "rating": 4.2,
+      "topSelling": false
+    },
+    {
+      "id": 17,
+      "name": "Mozzarella Cheese",
+      "category": "Dairy",
+      "price": 3.99,
+      "status": "In Stock",
+      "rating": 4.8,
+      "topSelling": true
+    },
+    {
+      "id": 18,
+      "name": "Chia Bread",
+      "category": "Bakery",
+      "price": 3.59,
+      "status": "Out of Stock",
+      "rating": 4.1,
+      "topSelling": false
+    },
+    {
+      "id": 19,
+      "name": "Lettuce",
+      "category": "Vegetables",
+      "price": 1.79,
+      "status": "In Stock",
+      "rating": 4.5,
+      "topSelling": true
+    },
+    {
+      "id": 20,
+      "name": "Milk",
+      "category": "Dairy",
+      "price": 2.99,
+      "status": "In Stock",
+      "rating": 4.9,
+      "topSelling": true
+    },
+    {
+      "id": 21,
+      "name": "Oranges",
+      "category": "Fruits",
+      "price": 3.29,
+      "status": "In Stock",
+      "rating": 4.6,
+      "topSelling": false
+    },
+    {
+      "id": 22,
+      "name": "Pineapple",
+      "category": "Fruits",
+      "price": 4.49,
+      "status": "Out of Stock",
+      "rating": 4.7,
+      "topSelling": true
+    },
+    {
+      "id": 23,
+      "name": "Croissants",
+      "category": "Bakery",
+      "price": 3.79,
+      "status": "In Stock",
+      "rating": 4.5,
+      "topSelling": false
+    },
+    {
+      "id": 24,
+      "name": "Grapes",
+      "category": "Fruits",
+      "price": 3.89,
+      "status": "In Stock",
+      "rating": 4.6,
+      "topSelling": true
+    },
+    {
+      "id": 25,
+      "name": "Chocolate Milk",
+      "category": "Dairy",
+      "price": 2.79,
+      "status": "In Stock",
+      "rating": 4.5,
+      "topSelling": true
+    },
+    {
+      "id": 26,
+      "name": "Multigrain Bread",
+      "category": "Bakery",
+      "price": 2.99,
+      "status": "Out of Stock",
+      "rating": 4.7,
+      "topSelling": true
+    },
+    {
+      "id": 27,
+      "name": "Tomatoes",
+      "category": "Vegetables",
+      "price": 1.79,
+      "status": "In Stock",
+      "rating": 4.5,
+      "topSelling": true
+    },
+    {
+      "id": 28,
+      "name": "Bell Peppers",
+      "category": "Vegetables",
+      "price": 2.49,
+      "status": "In Stock",
+      "rating": 4.8,
+      "topSelling": true
+    },
+    {
+      "id": 29,
+      "name": "Butter",
+      "category": "Dairy",
+      "price": 2.99,
+      "status": "In Stock",
+      "rating": 4.8,
+      "topSelling": true
+    },
+    {
+      "id": 30,
+      "name": "Lemonade",
+      "category": "Beverages",
+      "price": 3.99,
+      "status": "In Stock",
+      "rating": 4.7,
+      "topSelling": true
+    }
+  ]
+}
