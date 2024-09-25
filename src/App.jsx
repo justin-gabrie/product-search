@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
 import Header from './components/header/Header'
-import ProductDisplay from './components/ProductDisplay/ProductDisplay'
+import ProductDisplay from './components/productDisplay/ProductDisplay'
 import Electronics from './components/electronics/Electronics'
 import Grocery from './components/grocery/Grocery'
 import './App.css'
